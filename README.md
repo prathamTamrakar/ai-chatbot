@@ -18,7 +18,7 @@ It provides an interactive UI where users can chat with the AI assistant in Engl
 
 ### 1️⃣ Clone the repository
 ```
-git clone https://github.com/<your-username>/ai-chatbot.git
+git clone https://github.com/prathamTamrakar/ai-chatbot.git
 cd ai-chatbot
 ```
 ### 2️⃣ Install dependencies
